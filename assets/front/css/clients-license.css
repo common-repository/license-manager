@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+.clients-license{}
+
+
+.clients-license .single {
+	margin: 30px 0;
+	padding: 0 0 30px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+
+.clients-license .single .license_key{
+
+}
+.clients-license .single .license_key input {
+	border: none;
+}
+
+
+.clients-license .single .license_status{
+
+}
+
+
+.clients-license .single .license_status{
+
+}
+
+.clients-license .single .license_status .status {
+	padding: 2px 10px;
+	background: #c2c2c2;
+	color: #fff;
+}
+
+.clients-license .single .license_status .status.pending {
+	background: #ffd02e;
+}
+
+
+.clients-license .single .license_status .status.active {
+	background: #27b15e;
+}
+
+.clients-license .single .license_status .status.blocked {
+	background: #f97575;
+}
+
+.clients-license .single .license_status .status.expired {
+	background: #ff2e2e;
+}
+
+
+.clients-license .paginate{}
+
+.clients-license .paginate .page-numbers {
+	background: #b7b7b7;
+	padding: 5px 12px;
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+}
+
+.clients-license .paginate .page-numbers.current {
+	background: #e7e4e4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
